@@ -3,16 +3,16 @@
 ## Overview
 This repository contains a Streamlit web application that predicts stock prices using historical data from Yahoo Finance. Utilizing the powerful time-series forecasting algorithm from Facebook's Prophet, users can select from a variety of stocks and cryptocurrencies to view past performance and future predictions.
 
-![Stock Prediction App Screenshot](PATH_TO_YOUR_IMAGE/overview.png)
-![Overview of Stock Prediction App](PATH_TO_YOUR_IMAGE/overview.png)
+![Stock Prediction App Screenshot](https://github.com/Syerramsetti915/finance/blob/main/Images/1.png)
+![Overview of Stock Prediction App](https://github.com/Syerramsetti915/finance/blob/main/Images/2_2.png)
 ## Features
 - Selection of various stocks and cryptocurrencies for analysis.
 - Interactive time-series plots with a rangeslider for examining historical data.
 - Forecasting feature to predict future stock prices for a user-defined period (1 to 4 years).
 - Visualization of forecast data and components including trend, weekly, and yearly seasonality.
 
-![Feature Interactive Plots](PATH_TO_YOUR_IMAGE/interactive_plots.png)
-![Overview of Stock Prediction App](PATH_TO_YOUR_IMAGE/overview.png)
+![Feature Interactive Plots](https://github.com/Syerramsetti915/finance/blob/main/Images/3.png)
+![Overview of Stock Prediction App](https://github.com/Syerramsetti915/finance/blob/main/Images/2.png)
 
 ## Installation
 

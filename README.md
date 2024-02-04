@@ -12,7 +12,7 @@ This repository contains a Streamlit web application that predicts stock prices 
 - Visualization of forecast data and components including trend, weekly, and yearly seasonality.
 
 ![Feature Interactive Plots](https://github.com/Syerramsetti915/finance/blob/main/Images/3.png)
-![Overview of Stock Prediction App](https://github.com/Syerramsetti915/finance/blob/main/Images/2.png)
+![Overview of Stock Prediction App](https://github.com/Syerramsetti915/finance/blob/main/Images/4.png)
 
 ## Installation
 
